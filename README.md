@@ -1,4 +1,4 @@
-"# Coding-Assignment-Data-Curation-and-Analysis" 
+## Wikipedia World's Billionaires Web Scraping Analysis
 
 Project Goal:
 The goal of this project is to effectively scrape data from an online web source, transform the data using various data cleaning methods, and then conducting an analysis on the data by gaining insights from various visualizations.
